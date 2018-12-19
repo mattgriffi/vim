@@ -1,6 +1,7 @@
 inoremap jk <ESC>
-let mapleader = "<Space>"
+let mapleader=","
 map <Enter> O<ESC>j
+nnoremap <leader>s :set spell!<Enter>
 filetype plugin indent on
 syntax on
 set number
