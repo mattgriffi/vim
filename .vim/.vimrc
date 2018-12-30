@@ -13,3 +13,4 @@ highlight Normal ctermbg=NONE
 highlight nonText ctermbg=NONE
 set spell spelllang=en_us
 set nospell
+set ruler
