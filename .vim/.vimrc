@@ -14,3 +14,7 @@ highlight nonText ctermbg=NONE
 set spell spelllang=en_us
 set nospell
 set ruler
+set linebreak
+set tabstop=4
+set shiftwidth=4
+set expandtab
